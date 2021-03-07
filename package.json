@@ -1,0 +1,16 @@
+{
+  "name": "node-spreadsheets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:auth": "AUTHORIZATION_HEADER=some-key node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "google-spreadsheet": "^3.1.15"
+  }
+}

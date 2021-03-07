@@ -1,0 +1,11 @@
+[
+    {
+        "sheet_id": "sheet-id",
+        "sheet_page": 0,
+        "endpoint": "/some-endpoint",
+        "credentials": {
+            "client_email": "service-account@google",
+            "private_key": "-----BEGIN PRIVATE KEY-----\nsome-private-key\n-----END PRIVATE KEY-----\n"
+        }
+    }
+]
